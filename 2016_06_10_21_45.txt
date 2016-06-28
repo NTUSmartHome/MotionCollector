@@ -1,0 +1,12 @@
+location:Home
+date:1465566336000
+displayName:Outlet1
+value:on
+location:Home
+date:1465566341000
+displayName:Outlet1
+value:off
+location:Home
+date:1465566351000
+displayName:Outlet1
+value:on
